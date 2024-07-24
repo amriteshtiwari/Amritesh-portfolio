@@ -471,13 +471,13 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "105 Ekta Appartment, Vishnupuri, Indore",
+    subtitle: "Vishnupuri, Indore",
     locality: "Vishnupuri",
     country: "INDIA",
     region: "Indore",
     postalCode: "462022",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/Cz65h9V79kmMK5QM7",
   },
   phoneSection: {
     title: "",
