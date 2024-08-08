@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Amritesh Tiwari",
   logo_name: "AmriteshTiwari",
-  nickname: "Rails Devloper",
+  nickname: "Rails Developer",
   subTitle:
     "I possess  hands-on experience in Ruby on Rails (RoR), primarily specializing in web development. I'm enthusiastic about further advancing in this domain and branching out into new areas of exploration.",
   resumeLink:
@@ -175,7 +175,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "",
+      profileLink: "  ",
     },
     {
       siteName: "Hackerearth",
@@ -348,7 +348,7 @@ const experience = {
           title: "Solution Engineer",
           company: "Deqode Solutions",
           company_url: "https://deqode.com/",
-          logo_path: "Deqode.png",
+          logo_path: "deqode_labs_logo.jpeg",
           duration: "June 2023 - Present",
           location: "Indore, India",
           description:
@@ -361,13 +361,14 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Solution Engineer",
+          title: "Solution Engineer Intern",
           company: "Deqode Solutions",
           company_url: "https://deqode.com/",
-          logo_path: "Deqode.png",
+          logo_path: "deqode_labs_logo.jpeg",
           duration: "Jan 2023 - Jul 2023",
           location: "Indore, India",
-          description: "",
+          description:
+            "As a Rails intern, I contribute to various aspects of web development and support the team in multiple ways like Develop and Maintain Web Applications, Testing and Debugging and many more",
           color: "#000000",
         },
       ],
