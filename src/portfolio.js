@@ -345,11 +345,22 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Software Engineer",
+          company: "MangoApps",
+          company_url: "https://www.mangoapps.com/",
+          logo_path: "mangoapps_inc_logo.jpeg",
+          duration: "Sep 2024 - Present",
+          location: "Pune, India",
+          description:
+            "Played a key role in redefining the work experience by enhancing MangoApps’ Unified Platform, focusing on employee engagement, efficiency, and ease of use. Actively collaborated with cross-functional teams to deliver user-centric solutions, aligning with the company’s mission of innovation and genuine care",
+          color: "#000000",
+        },
+        {
           title: "Solution Engineer",
           company: "Deqode Solutions",
           company_url: "https://deqode.com/",
           logo_path: "deqode_labs_logo.jpeg",
-          duration: "June 2023 - Present",
+          duration: "June 2023 - Sep 2024",
           location: "Indore, India",
           description:
             "As a Ruby on Rails developer at Deqode, I played a pivotal role in the development team for the “Social Wise” chat application. I engineered the core functionality of chat pausing and developed multiple APIs, including those for unread message counts and more. Additionally, you contributed to projects at United Signals, specializing in digital document processes. Your work involved integrating IDnow for identity verification and implementing RSpec Capybara tests to ensure robustness and reliability.",
